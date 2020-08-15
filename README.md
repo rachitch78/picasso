@@ -56,4 +56,4 @@ License
 
  [1]: http://square.github.io/picasso/
  [2]: https://search.maven.org/search?q=g:com.squareup.picasso%20AND%20a:picasso
- [snap]: https://oss.sonatype.org/content/repositories/snapshots/
+ 
